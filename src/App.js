@@ -11,6 +11,9 @@ function App() {
           Edit <code>src/App.js</code> and save to reload. 
           Added Prashant bit to String - with Nginx
         </p>
+        <p>
+          This change is done on 7th Feb 2020 
+        </p>
        <a
           className="App-link"
           href="https://reactjs.org"
